@@ -2,6 +2,7 @@ package NewGit;
 
 public class GItBash {
 	public static void main(String[] args) {
-		System.out.println("basjcbkasjbclnc");
+		System.out.println("bkceqjn");
+		//ndknf f
 	}
 }
